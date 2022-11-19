@@ -1,6 +1,6 @@
 ![Codewars](https://www.codewars.com/users/kleber-gueriero/badges/large)
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=kleber-gueriero&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kleber-gueriero&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 
 <div>
   <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" />
